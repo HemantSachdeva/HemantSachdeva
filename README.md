@@ -29,6 +29,9 @@
 <a href="https://github.com/HemantSachdeva/ITW-3rdSem">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HemantSachdeva&repo=ITW-3rdSem&show_owner=true)" />
 </a>
+<a href="https://github.com/HemantSachdeva/WeatherApi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HemantSachdeva&repo=WeatherApi&show_owner=true)" />
+</a>
 <a href="https://github.com/HemantSachdeva/device_xiaomi_laurel_sprout">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HemantSachdeva&repo=device_xiaomi_laurel_sprout&show_owner=true)" />
 </a>
