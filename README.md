@@ -6,8 +6,8 @@
 ### ![My Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemantsachdeva&exclude_repo=android_device_xiaomi_laurel_sprout,android_kernel_xiaomi_laurel_sprout,android_vendor_xiaomi_laurel_sprout,device_xiaomi_laurel_sprout,vendor_xiaomi_laurel_sprout,kernel_xiaomi_laurel_sprout,dt_laurel_sprout,dt_laurel_sprout_r,vt_laurel_sprout_r,kt_laurel_sprout_r,build_soong_java&hide=Lua,M4,Objective-C,Assembly,Makefile,Shell,Perl,Yacc&langs_count=9&layout=compact)
 ### Ways to reach me:
 
-[<img align="left" alt="HeManTSacHDevA | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/telegram.svg" />](https://www.telegram.me/HeManTSacHDevA)
-[<img align="left" alt="HeManTSacHDevA | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/hemant_007.me)
+[<img align="left" alt="HeManTSacHDevA | Telegram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111673.svg?token=exp=1610895903~hmac=b9db8f68fa4b3a38f2b03340796d0963" />](https://www.telegram.me/HeManTSacHDevA)
+[<img align="left" alt="HeManTSacHDevA | Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/1400/1400845.svg?token=exp=1610895536~hmac=513dcd93f0d10a67f4098082533c0a00" />](https://www.instagram.com/hemant_007.me)
 <br/>
 ### Languages and Tools:
 [<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/c.svg"/>](C)
