@@ -3,9 +3,9 @@
 </h1>
 
 ### [![My github stats](https://github-readme-stats.vercel.app/api?username=hemantsachdeva&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://www.github.com/HemantSachdeva?tab=repositories)
+### ![Counts](https://komarev.com/ghpvc/?username=HemantSachdeva&color=blue&style=flat-square&label=Profile+Visits)
 ### ![My Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemantsachdeva&exclude_repo=android_device_xiaomi_laurel_sprout,android_kernel_xiaomi_laurel_sprout,android_vendor_xiaomi_laurel_sprout,device_xiaomi_laurel_sprout,vendor_xiaomi_laurel_sprout,kernel_xiaomi_laurel_sprout,dt_laurel_sprout,dt_laurel_sprout_r,vt_laurel_sprout_r,kt_laurel_sprout_r,build_soong_java&hide=Lua,M4,Objective-C,Assembly,Makefile,Shell,Perl,Yacc&langs_count=9&layout=compact)
 ### Ways to reach me:
-
 [<img align="left" alt="HeManTSacHDevA | Telegram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111673.svg?token=exp=1610895903~hmac=b9db8f68fa4b3a38f2b03340796d0963" />](https://www.telegram.me/HeManTSacHDevA)
 [<img align="left" alt="HeManTSacHDevA | Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/1400/1400845.svg?token=exp=1610895536~hmac=513dcd93f0d10a67f4098082533c0a00" />](https://www.instagram.com/hemant_007.me)
 <br/>
