@@ -13,4 +13,21 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](Terminal)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/visualstudio.svg"/>](VS)
 [<img align="left" alt="Manjaro" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/manjaro.svg"/>](manjarolinux)
-<br />
+<br /><br />
+
+### Pinned
+<a href="https://github.com/HemantSachdeva/OOP-3rdSem">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HemantSachdeva&repo=OOP-3rdSem&show_owner=true)" />
+</a>
+<a href="https://github.com/HemantSachdeva/Ds-3rdSem">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HemantSachdeva&repo=Ds-3rdSem&show_owner=true)" />
+</a>
+<a href="https://github.com/HemantSachdeva/ITW-3rdSem">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HemantSachdeva&repo=ITW-3rdSem&show_owner=true)" />
+</a>
+<a href="https://github.com/HemantSachdeva/device_xiaomi_laurel_sprout">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HemantSachdeva&repo=device_xiaomi_laurel_sprout&show_owner=true)" />
+</a>
+<a href="https://github.com/HemantSachdeva/MrBond007Bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HemantSachdeva&repo=MrBond007Bot&show_owner=true)" />
+</a>
