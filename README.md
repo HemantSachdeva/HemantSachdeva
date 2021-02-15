@@ -38,3 +38,5 @@
 <a href="https://github.com/HemantSachdeva/MrBond007Bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HemantSachdeva&repo=MrBond007Bot&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_owner=true)" />
 </a>
+
+[<img align="left" alt="Donate" width="200px" src="https://i.imgur.com/5GOScjV.png"/>](https://pages.razorpay.com/HemantSachdevaa)
