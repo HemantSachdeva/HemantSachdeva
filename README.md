@@ -41,3 +41,5 @@
 <br /><br />
 
 [<img align="left" alt="Donate" width="200px" src="https://i.imgur.com/5GOScjV.png"/>](https://pages.razorpay.com/HemantSachdevaa)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T04NARS)
