@@ -4,7 +4,7 @@
 
 ### [![My github stats](https://github-readme-stats.vercel.app/api?username=hemantsachdeva&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://www.github.com/HemantSachdeva?tab=repositories)
 ### ![Counts](https://komarev.com/ghpvc/?username=HemantSachdeva&color=blue&style=flat-square&label=Profile+Visits)
-### ![My Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemantsachdeva&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&exclude_repo=android_device_xiaomi_laurel_sprout,android_kernel_xiaomi_laurel_sprout,android_vendor_xiaomi_laurel_sprout,device_xiaomi_laurel_sprout,vendor_xiaomi_laurel_sprout,kernel_xiaomi_laurel_sprout,dt_laurel_sprout,dt_laurel_sprout_r,vt_laurel_sprout_r,kt_laurel_sprout_r,build_soong_java&hide=Lua,M4,Objective-C,Assembly,Makefile,Shell,Perl,Yacc&langs_count=9&layout=compact)
+### ![My Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemantsachdeva&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&exclude_repo=android_device_xiaomi_laurel_sprout,android_kernel_xiaomi_laurel_sprout,android_vendor_xiaomi_laurel_sprout,device_xiaomi_laurel_sprout,vendor_xiaomi_laurel_sprout,kernel_xiaomi_laurel_sprout,dt_laurel_sprout,dt_laurel_sprout_r,vt_laurel_sprout_r,kt_laurel_sprout_r,build_soong_java,laurel_sprout_decompiled_overlays&hide=Lua,M4,Objective-C,Assembly,Makefile,Shell,Perl,Yacc&langs_count=9&layout=compact)
 
 <!--### Pinned
 <a href="https://github.com/Evolution-X-Devices/device_xiaomi_laurel_sprout">
