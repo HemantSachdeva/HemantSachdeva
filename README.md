@@ -29,6 +29,7 @@
 ### Ways to reach me:
 [<img align="left" alt="HeManTSacHDevA | Telegram" width="22px" src="https://i.imgur.com/6BBu5v3.png" />](https://www.telegram.me/HeManTSacHDevA)
 [<img align="left" alt="HeManTSacHDevA | Instagram" width="22px" src="https://i.imgur.com/zTSjHxi.png" />](https://www.instagram.com/hemant_007.me)
+[<img align="left" alt="HeManT-SacHDevA | LinkedIn" width="22px" src="https://i.imgur.com/Y6xTt9L.png" />](https://www.linkedin.com/in/Hemant-Sachdeva)
 <br/>
 ### Languages and Tools:
 [<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/c.svg"/>](C)
