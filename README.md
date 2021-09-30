@@ -31,16 +31,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HemantSachdeva&repo=ITW-3rdSem&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_owner=true)" />
 </a> -->
 
-### Ways to reach me:
-[<img align="left" alt="HeManTSacHDevA | Telegram" width="22px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/telegram.png" />](https://www.telegram.me/HeManTSacHDevA)
-[<img align="left" alt="HeManTSacHDevA | Instagram" width="22px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/instagram.png" />](https://www.instagram.com/hemant_007.me)
-[<img align="left" alt="HeManT-SacHDevA | LinkedIn" width="22px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/linkedin.png" />](https://www.linkedin.com/in/Hemant-Sachdeva)
-[<img align="left" alt="HeMantSachdeva | Gmail" width="44px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/gmail.png" />](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=hemant.evolver@gmail.com)
-<br/>
+---
+
 ### Languages and Tools:
+
 [<img align="left" alt="Android" width="44px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/android.svg"/>](https://developer.android.com/)
 [<img align="left" alt="Bash" width="44px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/bash.png" />](https://www.gnu.org/software/bash/)
-[<img align="left" alt="C" width="44px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/c.svg"/>](https://en.wikipedia.org/wiki/C_(programming_language))
+[<img align="left" alt="C" width="44px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/c.svg"/>](<https://en.wikipedia.org/wiki/C_(programming_language)>)
 [<img align="left" alt="C++" width="44px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/cpp.svg"/>](https://en.wikipedia.org/wiki/C%2B%2B)
 [<img align="left" alt="Git" width="44px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/git.svg" />](https://git-scm.com/)
 [<img align="left" alt="GitHub" width="55px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/octocat.png" />](https://github.com/HemantSachdeva)
@@ -49,6 +46,18 @@
 [<img align="left" alt="Manjaro" width="44px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/manjaro.png"/>](https://manjaro.org/)
 <br /><br />
 
-[<img align="left" alt="Donate" width="200px" src="https://i.imgur.com/5GOScjV.png"/>](https://pages.razorpay.com/HemantSachdevaa)
+[<img align="left" alt="Donate" width="200px" src="https://i.imgur.com/5GOScjV.png"/>](https://pages.razorpay.com/HemantSachdevaa)[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T04NARS)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T04NARS)
+<br>
+
+---
+## Ways to reach me:
+
+[<img align="left" alt="HeManTSacHDevA | Telegram" width="22px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/telegram.png" />](https://www.telegram.me/HeManTSacHDevA)[<img align="left" alt="HeManTSacHDevA | Instagram" width="22px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/instagram.png" />](https://www.instagram.com/hemant_007.me)[<img align="left" alt="HeManT-SacHDevA | LinkedIn" width="22px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/linkedin.png" />](https://www.linkedin.com/in/Hemant-Sachdeva)[<img align="left" alt="HeMantSachdeva | Gmail" width="44px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/gmail.png" />](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=hemant.evolver@gmail.com)
+<br>
+
+---
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to talk with you more!</b> :)</em>
+
+---
