@@ -1,6 +1,20 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/master/assets/stalker.svg" alt="Hemant Sachdeva" />
 </h1>
+<h3 align="center">
+        <samp>&gt; Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Wave gif" width="30px"><br>
+          &gt; I am <b>Hemant Sachdeva</b>
+        </samp>
+</h3>
+ <p align="left">
+ <img align="right" alt="GDSC Badge" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/HemantSachdeva.jpg" width="45%" height="70%" style="margin:0 50px;"> <br>
+  🔸 I'm interested in Scripting <br>
+  🔸 Currently improving my Python Skills <br>
+  🔸 Looking collaborators for <a href="https://www.github.com/HemantSachdeva/JokeApi.git" alt="Joke Api Repo">Joke Api</a> 🌚 <br>
+  🔸 Sometimes I do Android sometimes Webies
+  </p>
+<details align="left">
+  <summary> <samp>&#9776; My GitHub Stats</samp></summary>
 <table align="center"> <td>
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hemantsachdeva&count_private=true&show_icons=true&theme=vision-friendly-dark " />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HemantSachdeva&theme=vision-friendly-dark" />
@@ -8,8 +22,11 @@
 <table align="center"> <td>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemantsachdeva&theme=vision-friendly-dark&langs_count=8&layout=compact&exclude_repo=device_xiaomi_laurel_sprout,kernel_xiaomi_laurel_sprout,vendor_xiaomi_laurel_sprout,device_xiaomi_laurel_sprout,vendor_xiaomi_laurel_sprout,kernel_xiaomi_laurel_sprout,build_soong_java,hardware_qcom-caf_sm8150_display,packages_apps_Settings,laurel_sprout_decompiled_overlays&hide=Assembly,Dockerfile,Lua,M4,Objective-C,Perl,Roff,Yacc" />
 </td> </table>
+<img src="https://activity-graph.herokuapp.com/graph?username=HemantSachdeva&theme=react-dark&custom_title=Commits%20per%20day%20graph">
+<img src="https://komarev.com/ghpvc/?username=HemantSachdeva&color=blue&style=flat-square&label=Profile+Visits"> <img src="https://img.shields.io/badge/age-19-blue">
+</details>
 
-### ![Counts](https://komarev.com/ghpvc/?username=HemantSachdeva&color=blue&style=flat-square&label=Profile+Visits) ![age](https://img.shields.io/badge/age-19-blue)
+<br> <br>
 
 <!--### Pinned
 <a href="https://github.com/Evolution-X-Devices/device_xiaomi_laurel_sprout">
