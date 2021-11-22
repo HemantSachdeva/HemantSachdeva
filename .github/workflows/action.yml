@@ -27,10 +27,6 @@ jobs:
           plugin_isocalendar_duration: full-year
           plugin_notable: yes
           plugin_notable_from: organization
-          plugin_skyline: yes
-          plugin_skyline_frames: 60
-          plugin_skyline_quality: 0.5
-          plugin_skyline_year: 2021
           repositories: 200
           repositories_batch: 200
           repositories_forks: yes
