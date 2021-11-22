@@ -6,25 +6,17 @@
           &gt; I am <b>Hemant Sachdeva</b>
         </samp>
 </h3>
- <p align="left">
- <img align="right" alt="GDSC Badge" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/HemantSachdeva.jpg" width="45%" height="70%" style="margin:0 50px;"> <br>
-  🔸 I'm interested in Scripting <br>
-  🔸 Currently improving my Python Skills <br>
-  🔸 Looking collaborators for <a href="https://www.github.com/HemantSachdeva/JokeApi.git" alt="Joke Api Repo">Joke Api</a> 🌚 <br>
-  🔸 Sometimes I do Android sometimes Webies
-  </p>
+
+<img src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/main/github-metrics.svg">
+<br> <br>
+
 <details align="left">
-  <summary> <samp>&#9776; My GitHub Stats</samp></summary>
-<table align="center"> <td>
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=hemantsachdeva&count_private=true&show_icons=true&theme=vision-friendly-dark " />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HemantSachdeva&theme=vision-friendly-dark" />
-</td> </table>
-<table align="center"> <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemantsachdeva&theme=vision-friendly-dark&langs_count=8&layout=compact&exclude_repo=device_xiaomi_laurel_sprout,kernel_xiaomi_laurel_sprout,vendor_xiaomi_laurel_sprout,device_xiaomi_laurel_sprout,vendor_xiaomi_laurel_sprout,kernel_xiaomi_laurel_sprout,build_soong_java,hardware_qcom-caf_sm8150_display,packages_apps_Settings,laurel_sprout_decompiled_overlays&hide=Assembly,Dockerfile,Lua,M4,Objective-C,Perl,Roff,Yacc" />
+  <summary> <samp>&#9776; My GitHub Trophies</samp></summary>
+
 <img src="https://github-profile-trophy.vercel.app/?username=HemantSachdeva&title=MultiLanguage,Organizations,Commit,PullRequest,Repositories,Followers&theme=radical&row=2&column=3" />
-</td> </table>
-<img src="https://activity-graph.herokuapp.com/graph?username=HemantSachdeva&theme=react-dark&custom_title=Commits%20per%20day%20graph">
+
 <img src="https://komarev.com/ghpvc/?username=HemantSachdeva&color=blue&style=flat-square&label=Profile+Visits"> <img src="https://img.shields.io/badge/age-19-blue">
+
 </details>
 
 <br> <br>
@@ -53,7 +45,7 @@
 
 [<img align="left" alt="Android" width="44px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/android.svg"/>](https://developer.android.com/)
 [<img align="left" alt="Bash" width="44px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/bash.png" />](https://www.gnu.org/software/bash/)
-[<img align="left" alt="C" width="44px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/c.svg"/>](https://en.wikipedia.org/wiki/C_(programming_language))
+[<img align="left" alt="C" width="44px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/c.svg"/>](<https://en.wikipedia.org/wiki/C_(programming_language)>)
 [<img align="left" alt="C++" width="44px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/cpp.svg"/>](https://en.wikipedia.org/wiki/C%2B%2B)
 [<img align="left" alt="Git" width="44px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/git.svg" />](https://git-scm.com/)
 [<img align="left" alt="GitHub" width="55px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/octocat.png" />](https://github.com/HemantSachdeva)
@@ -70,4 +62,5 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to talk with you more!</b> :)</em>
 
 ---
+
 [<img align="left" alt="Donate" width="200px" src="https://i.imgur.com/5GOScjV.png"/>](https://pages.razorpay.com/HemantSachdevaa)
