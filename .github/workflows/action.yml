@@ -20,6 +20,7 @@ jobs:
           template: classic
           base: header, activity, repositories, metadata
           commits_authoring: Hemant Sachdeva, hemant.evolver@gmail.com
+          committer_branch: dumps
           config_timezone: Asia/Calcutta
           plugin_achievements: yes
           plugin_achievements_display: detailed
