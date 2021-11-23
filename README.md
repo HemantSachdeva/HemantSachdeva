@@ -7,7 +7,7 @@
         </samp>
 </h3>
 
-<img src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/main/github-metrics.svg">
+<img src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/dumps/github-metrics.svg">
 <br> <br>
 
 <details align="left">
