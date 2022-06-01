@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/master/assets/stalker.svg" alt="Hemant Sachdeva" />
 </h1>
 <h3 align="center">
-        <samp>&gt; Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Wave gif" width="30px"><br>
+        <samp>&gt; Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Wave gif" width="30px" height="30px"><br>
           &gt; I am <b>Hemant Sachdeva</b>
         </samp>
 </h3>
