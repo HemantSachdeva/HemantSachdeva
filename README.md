@@ -52,6 +52,7 @@
 [<img align="left" alt="Python" width="44px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/python.png" />](https://www.python.org/)
 [<img align="left" alt="Visual Studio Code" width="44px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/vs-code.png"/>](https://code.visualstudio.com/)
 [<img align="left" alt="Manjaro" width="44px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/manjaro.png"/>](https://manjaro.org/)
+[<img align="left" alt="MongoDB" width="44px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/mongodb.svg"/>](https://www.mongodb.com/)
 <br /><br />
 
 ## Ways to reach me:
