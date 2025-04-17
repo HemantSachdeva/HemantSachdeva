@@ -62,4 +62,10 @@
 
 ---
 
-[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/HemantSachdeva)
+[![](https://img.shields.io/static/v1?label=Sponsor%20Me&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/HemantSachdeva)
+
+---
+
+Watch my contribution graph being eaten by a Snake! 🐍
+
+![Shoutout to Praveen :)](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/snake.svg)
