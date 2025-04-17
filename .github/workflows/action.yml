@@ -31,8 +31,8 @@ jobs:
           plugin_introduction_title: yes
           # plugin_isocalendar: yes
           # plugin_isocalendar_duration: full-year
-          plugin_notable: yes
-          plugin_notable_from: organization
+          # plugin_notable: yes
+          # plugin_notable_from: organization
           repositories: 200
           repositories_batch: 200
           repositories_forks: yes
